@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+</a>https://discord.gg/VK4k3Br
 <br/>
 <br/>
 
